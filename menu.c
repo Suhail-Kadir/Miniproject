@@ -4,7 +4,8 @@ int main()
 {
     char op, ch;
 
-    // hii how are you
+    // hii
+    // how
 
     printf("<-------- Welcome to my Dhaba ----------> \n\n");
     printf("Select what you want -> \n");
